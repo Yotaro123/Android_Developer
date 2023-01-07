@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Activity Home Work</string>
+    <string name="say_hello">Say Hello</string>
+    <string name="_0">0</string>
+    <string name="count">Count</string>
+    <string name="tv_hello">Hello!!</string>
+</resources>
